@@ -19,7 +19,7 @@ As per the requirement, below task are created using this custom module:
 
 Demo:
 
-* http://localhost/<foldername>/nodevalidate/{siteapikey}/{nid}.
+* http://localhost/contenttype/nodevalidate/{siteapikey}/{nid}.
 * Node URL: http://localhost/page/nodevalidate/axe123/1 (axe123: Site API key, 1: nid created)
 * Access denied : http://localhost/page/nodevalidate/axe321/1
 * Wrong node : http://localhost/page/nodevalidate/axe123/123
@@ -30,6 +30,4 @@ https://www.drupal.org/
 
 https://stackoverflow.com/
 
-Total time:
-
-4hrs
+Total time: 4hrs
